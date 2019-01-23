@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace CRUD_MVC5_AngularJs
+namespace Crud_MVC5_AngularJs
 {
     public class FilterConfig
     {

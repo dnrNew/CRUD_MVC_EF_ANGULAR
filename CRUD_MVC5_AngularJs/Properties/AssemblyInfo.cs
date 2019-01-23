@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CRUD_MVC5_AngularJs")]
+[assembly: AssemblyTitle("Crud_MVC5_AngularJs")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("CRUD_MVC5_AngularJs")]
+[assembly: AssemblyProduct("Crud_MVC5_AngularJs")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f27f2548-cd45-4e71-ae49-4c5ecb86cfe2")]
+[assembly: Guid("2d54d07d-6f9b-4d64-b2ad-022d8a5b2f83")]
 
 // Version information for an assembly consists of the following four values:
 //
